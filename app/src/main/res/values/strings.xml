@@ -1,0 +1,27 @@
+
+<resources>
+    <string name="app_name">Range Bar</string>
+    <string name="action_prefrences">Prefrences</string>
+    <string name="title_activity_Prefrences">Prefrences</string>
+
+    <string name="pref_interest">Interested In</string>
+    <string name="pref_men">Men</string>
+    <string name="pref_age">Age</string>
+    <string name="agematter">Age limit prefrence allows us to suggest matches accordingly.Some matches may fall outside the specifies range</string>
+
+    <string name="default_women">Women</string>
+    <string name="intrestedmatter">pick your gender preference</string>
+    <string name="alert_title">Alerts</string>
+    <string name="sounds">Sound</string>
+    <string name="sound_matter">We strongly recommend to keep the notification On you dont want to miss a chat notification</string>
+    <string name="match_maker">Matchmaker-only Mode</string>
+    <string name="hide_profile">Hide my Profile</string>
+    <string name="match_maker1">here to only friends? Just hie your profile and be a match-maker</string>
+    <string name="pref_header_about">About</string>
+
+    <string name="whitelist_my_app">Whitelist my app</string>
+    <string name="white1">Get notification continuosly by whitelisting our app from battery optimisation</string>
+    <string name="age">Age range prefrence allows us to suggest matches</string>
+    <string name="years">18-70 years</string>
+
+</resources>
